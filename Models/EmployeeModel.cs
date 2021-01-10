@@ -20,5 +20,7 @@ namespace Employee_Record_WebApi.Models
         
         [Column(TypeName = "nvarchar(100)")]
         public string ImageName { get; set; }
+
+
     }
 }
